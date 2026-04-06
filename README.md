@@ -17,4 +17,4 @@ python predict.py \
     --batch_size 32 \
     --threshold 0.9
 ```
-The download path for ARG-DPLM-MODEL.pth is as follows:
+The download path for ARG-DPLM-MODEL.pth is as follows: https://doi.org/10.5281/zenodo.19389190
