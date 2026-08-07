@@ -48,7 +48,7 @@ class Config:
     max_length = 512
     batch_size = 64
     accum_steps = 2
-    epochs = 200
+    epochs = 500
     lr = 1e-4
     model_lr = 1e-5
     early_stop_patience = 20
